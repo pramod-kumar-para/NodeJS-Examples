@@ -1,0 +1,11 @@
+{
+  "name": "webdevelopment-with-node-express",
+  "version": "1.0.0",
+  "description": "A repository of examples covering web development with node, express and handlebars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pramod Kumar Para",
+  "license": "MIT"
+}
